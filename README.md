@@ -15,10 +15,10 @@ I am a PhD student in Physics at the Instituto de Física Teórica of UNESP (IFT
 - Google Scholar: https://scholar.google.com/citations?user=2E4me28AAAAJ&hl=es
 - E-mail: denisescammarota@gmail.com / denise.cammarota@unesp.br
 
+<!--
 
 ### Hi there, I'm Denise 👋
 
-<!--
 **denisecammarota/denisecammarota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
