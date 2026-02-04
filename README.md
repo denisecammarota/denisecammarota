@@ -2,14 +2,15 @@
 
 ### About me ⚡
 
-I am a PhD student in Physics at the Instituto de Física Teórica of UNESP (IFT-UNESP), in Sao Paulo, Brazil. I also hold a BSc and Msc in Physics from Instituto Balseiro, in Argentina. My current PhD research mathematical modeling of infectious diseases - more specifically arboviruses (dengue/chikungunya) and measles - using data analysis, mechanistic models and machine learning. I am particularly interested in climate and susceptibility heterogeneities and their impacts on epidemic dynamics. Furthermore, I also have experience in developing data-driven solutions for epidemiological surveillance of measles and SARI, such as data analysis, dashboards, reports and risk estimation tools. 
+I am a PhD student in Physics at the Instituto de Física Teórica of UNESP (IFT-UNESP), in Sao Paulo, Brazil. I also hold a BSc and Msc in Physics from Instituto Balseiro, in Argentina. My current PhD research mathematical modeling of infectious diseases - more specifically arboviruses (dengue/chikungunya) and measles - using data analysis, mechanistic models and machine learning. I am particularly interested in climate and susceptibility heterogeneities and their impacts on epidemic dynamics. Furthermore, I also have experience in developing data-driven solutions for epidemiological surveillance of measles and SARI, such as data analysis, dashboards, reports and risk estimation tools. You can find me here on Github sharing code and data for my research work, as well as personal, free-time coding projects, portfolio and visualizations. 
 
 ### Highlighted repositories 🌱
-- Package for epidemic channel calculation: https://github.com/denisecammarota/endemic.channels
+- Package for epidemic channel calculation in R: https://github.com/denisecammarota/endemic.channels
 - Tutorials on Physics Inspired Neural Networks (PINNs) for epidemiology: https://github.com/denisecammarota/pinn-infectious-disease
-- Processing public dengue data from Argentina: https://github.com/denisecammarota/dengue-AR
+- Processing and visualizing public dengue data from Argentina: https://github.com/denisecammarota/dengue-AR
 
-#### Contact 📫
+### Contact 📫
+Don't hesitate to reach out for scientific collaboration, data science work or just for a general chat!
 - LinkedIn: https://www.linkedin.com/in/denise-cammarota/
 - Bluesky: https://bsky.app/profile/denisecamm.bsky.social
 - Google Scholar: https://scholar.google.com/citations?user=2E4me28AAAAJ&hl=es
